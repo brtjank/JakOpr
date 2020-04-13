@@ -7,3 +7,5 @@ int main()
     cout << "Wynik testu poprawny";
     return 0;
 }
+
+// zmiana
